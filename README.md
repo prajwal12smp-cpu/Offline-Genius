@@ -139,7 +139,7 @@ The UI is built from Jetpack Compose screens. The navigation shell presents sepa
 Clone using the repository URL available to you, then open the project root (the directory containing `settings.gradle.kts`) in Android Studio:
 
 ```powershell
-git clone <repository-url> Offline-Genius
+git clone [https://github.com/prajwal12smp-cpu/Offline-Genius](https://github.com/prajwal12smp-cpu/Offline-Genius)
 Set-Location Offline-Genius
 ```
 
