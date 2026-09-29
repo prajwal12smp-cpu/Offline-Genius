@@ -1,0 +1,6 @@
+{
+  "name": "Offline Genius",
+  "description": "On-device AI smart classroom learning system with local RAG, Gemma 3 1B inference, quizzes, and curriculum materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
